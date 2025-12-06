@@ -34,15 +34,15 @@ namespace Form3
                     return;
                 }
 
-             //   using (var db = new AppDbContext())
+              using (var db = new AppDbContext())
                 {
-                 //   var records = db.Measurements
-                                 //   .OrderByDescending(r => r.Date)
-                                 //   .ToList();
+                    var records = db.Measurements
+                                   .OrderByDescending(r => r.Date)
+                                   .ToList();
 
                     dataGridRecords.AutoGenerateColumns = true;
                     dataGridRecords.DataSource = null;
-                //    dataGridRecords.DataSource = records;
+                    dataGridRecords.DataSource = records;
 
                     // حماية من الأخطاء
                     if (dataGridRecords.Columns.Count > 0)

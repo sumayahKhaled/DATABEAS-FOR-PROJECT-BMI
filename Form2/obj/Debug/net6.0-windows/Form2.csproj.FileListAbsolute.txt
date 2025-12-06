@@ -1,8 +1,0 @@
-C:\Users\best\Source\Repos\aya9351\DATABEAS-FOR-PROJECT-BMI\Form2\obj\Debug\net6.0-windows\Form2.csproj.AssemblyReference.cache
-C:\Users\best\Source\Repos\aya9351\DATABEAS-FOR-PROJECT-BMI\Form2\obj\Debug\net6.0-windows\final_Project.Form2.resources
-C:\Users\best\Source\Repos\aya9351\DATABEAS-FOR-PROJECT-BMI\Form2\obj\Debug\net6.0-windows\Form2.csproj.GenerateResource.cache
-C:\Users\best\Source\Repos\aya9351\DATABEAS-FOR-PROJECT-BMI\Form2\obj\Debug\net6.0-windows\Form2.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\best\Source\Repos\aya9351\DATABEAS-FOR-PROJECT-BMI\Form2\obj\Debug\net6.0-windows\Form2.AssemblyInfoInputs.cache
-C:\Users\best\Source\Repos\aya9351\DATABEAS-FOR-PROJECT-BMI\Form2\obj\Debug\net6.0-windows\Form2.AssemblyInfo.cs
-C:\Users\best\Source\Repos\aya9351\DATABEAS-FOR-PROJECT-BMI\Form2\obj\Debug\net6.0-windows\Form2.csproj.CoreCompileInputs.cache
-C:\Users\best\Source\Repos\aya9351\DATABEAS-FOR-PROJECT-BMI\Form2\obj\Debug\net6.0-windows\Form2.Form1.resources

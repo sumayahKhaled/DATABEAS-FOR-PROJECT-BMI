@@ -1,6 +1,0 @@
-C:\Users\best\Source\Repos\aya9351\DATABEAS-FOR-PROJECT-BMI\Form1\obj\Debug\Form1.csproj.AssemblyReference.cache
-C:\Users\best\Source\Repos\aya9351\DATABEAS-FOR-PROJECT-BMI\Form1\obj\Debug\Form1.csproj.SuggestedBindingRedirects.cache
-C:\Users\best\Source\Repos\aya9351\DATABEAS-FOR-PROJECT-BMI\Form1\obj\Debug\final_Project.Form1.resources
-C:\Users\best\Source\Repos\aya9351\DATABEAS-FOR-PROJECT-BMI\Form1\obj\Debug\Form1.Properties.Resources.resources
-C:\Users\best\Source\Repos\aya9351\DATABEAS-FOR-PROJECT-BMI\Form1\obj\Debug\Form1.csproj.GenerateResource.cache
-C:\Users\best\Source\Repos\aya9351\DATABEAS-FOR-PROJECT-BMI\Form1\obj\Debug\Form1.csproj.CoreCompileInputs.cache

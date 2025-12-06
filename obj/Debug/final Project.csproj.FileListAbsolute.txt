@@ -1,0 +1,65 @@
+C:\Users\Hussein soft\source\repos\final Project\final Project\bin\Debug\final Project.exe.config
+C:\Users\Hussein soft\source\repos\final Project\final Project\bin\Debug\final Project.exe
+C:\Users\Hussein soft\source\repos\final Project\final Project\bin\Debug\final Project.pdb
+C:\Users\Hussein soft\source\repos\final Project\final Project\obj\Debug\final Project.csproj.AssemblyReference.cache
+C:\Users\Hussein soft\source\repos\final Project\final Project\obj\Debug\final Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hussein soft\source\repos\final Project\final Project\obj\Debug\final_Project.Form1.resources
+C:\Users\Hussein soft\source\repos\final Project\final Project\obj\Debug\final_Project.Form2.resources
+C:\Users\Hussein soft\source\repos\final Project\final Project\obj\Debug\final_Project.Form3.resources
+C:\Users\Hussein soft\source\repos\final Project\final Project\obj\Debug\final_Project.Properties.Resources.resources
+C:\Users\Hussein soft\source\repos\final Project\final Project\obj\Debug\final Project.csproj.GenerateResource.cache
+C:\Users\Hussein soft\source\repos\final Project\final Project\obj\Debug\final Project.csproj.CoreCompileInputs.cache
+C:\Users\Hussein soft\source\repos\final Project\final Project\obj\Debug\final Project.exe
+C:\Users\Hussein soft\source\repos\final Project\final Project\obj\Debug\final Project.pdb
+C:\Users\Hussein soft\source\repos\final Project\final Project\bin\Debug\EntityFramework.dll
+C:\Users\Hussein soft\source\repos\final Project\final Project\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hussein soft\source\repos\final Project\final Project\bin\Debug\System.Data.SQLite.dll
+C:\Users\Hussein soft\source\repos\final Project\final Project\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Hussein soft\source\repos\final Project\final Project\bin\Debug\EntityFramework.xml
+C:\Users\Hussein soft\source\repos\final Project\final Project\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hussein soft\source\repos\final Project\final Project\obj\Debug\final Project.csproj.CopyComplete
+C:\Users\Hussein soft\source\repos\final Project\final Project\bin\Debug\SQLite.CodeFirst.dll
+C:\Users\Hussein soft\source\repos\final Project\final Project\obj\Debug\final_Project.Migrations.InitialCreate.resources
+C:\Users\a\Desktop\final Project\final Project\bin\Debug\final Project.exe.config
+C:\Users\a\Desktop\final Project\final Project\obj\Debug\final Project.exe
+C:\Users\a\Desktop\final Project\final Project\obj\Debug\final Project.pdb
+C:\Users\a\Desktop\final Project\final Project\obj\Debug\final Project.csprojResolveAssemblyReference.cache
+C:\Users\a\Desktop\final Project\final Project\obj\Debug\final_Project.Form1.resources
+C:\Users\a\Desktop\final Project\final Project\obj\Debug\final_Project.Form2.resources
+C:\Users\a\Desktop\final Project\final Project\obj\Debug\final_Project.Form3.resources
+C:\Users\a\Desktop\final Project\final Project\obj\Debug\final_Project.Migrations.InitialCreate.resources
+C:\Users\a\Desktop\final Project\final Project\obj\Debug\final_Project.Properties.Resources.resources
+C:\Users\a\Desktop\final Project\final Project\obj\Debug\final Project.csproj.GenerateResource.Cache
+C:\Users\a\Desktop\final Project\final Project\bin\Debug\final Project.exe
+C:\Users\a\Desktop\final Project\final Project\bin\Debug\final Project.pdb
+C:\Users\a\Desktop\final Project\final Project\bin\Debug\EntityFramework.dll
+C:\Users\a\Desktop\final Project\final Project\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\a\Desktop\final Project\final Project\bin\Debug\SQLite.CodeFirst.dll
+C:\Users\a\Desktop\final Project\final Project\bin\Debug\System.Data.SQLite.dll
+C:\Users\a\Desktop\final Project\final Project\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\a\Desktop\final Project\final Project\bin\Debug\EntityFramework.xml
+C:\Users\a\Desktop\final Project\final Project\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hussein soft\OneDrive\Desktop\final Project (1)\final Project\final Project\bin\Debug\final Project.exe.config
+C:\Users\Hussein soft\OneDrive\Desktop\final Project (1)\final Project\final Project\bin\Debug\final Project.exe
+C:\Users\Hussein soft\OneDrive\Desktop\final Project (1)\final Project\final Project\bin\Debug\final Project.pdb
+C:\Users\Hussein soft\OneDrive\Desktop\final Project (1)\final Project\final Project\bin\Debug\EntityFramework.dll
+C:\Users\Hussein soft\OneDrive\Desktop\final Project (1)\final Project\final Project\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hussein soft\OneDrive\Desktop\final Project (1)\final Project\final Project\bin\Debug\SQLite.CodeFirst.dll
+C:\Users\Hussein soft\OneDrive\Desktop\final Project (1)\final Project\final Project\bin\Debug\System.Data.SQLite.dll
+C:\Users\Hussein soft\OneDrive\Desktop\final Project (1)\final Project\final Project\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Hussein soft\OneDrive\Desktop\final Project (1)\final Project\final Project\bin\Debug\EntityFramework.xml
+C:\Users\Hussein soft\OneDrive\Desktop\final Project (1)\final Project\final Project\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hussein soft\OneDrive\Desktop\final Project (1)\final Project\final Project\obj\Debug\final Project.csproj.AssemblyReference.cache
+C:\Users\Hussein soft\OneDrive\Desktop\final Project (1)\final Project\final Project\obj\Debug\final Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hussein soft\OneDrive\Desktop\final Project (1)\final Project\final Project\obj\Debug\final_Project.Form1.resources
+C:\Users\Hussein soft\OneDrive\Desktop\final Project (1)\final Project\final Project\obj\Debug\final_Project.Form2.resources
+C:\Users\Hussein soft\OneDrive\Desktop\final Project (1)\final Project\final Project\obj\Debug\final_Project.Form3.resources
+C:\Users\Hussein soft\OneDrive\Desktop\final Project (1)\final Project\final Project\obj\Debug\final_Project.Migrations.InitialCreate.resources
+C:\Users\Hussein soft\OneDrive\Desktop\final Project (1)\final Project\final Project\obj\Debug\final_Project.Properties.Resources.resources
+C:\Users\Hussein soft\OneDrive\Desktop\final Project (1)\final Project\final Project\obj\Debug\final Project.csproj.GenerateResource.cache
+C:\Users\Hussein soft\OneDrive\Desktop\final Project (1)\final Project\final Project\obj\Debug\final Project.csproj.CoreCompileInputs.cache
+C:\Users\Hussein soft\OneDrive\Desktop\final Project (1)\final Project\final Project\obj\Debug\final Project.csproj.CopyComplete
+C:\Users\Hussein soft\OneDrive\Desktop\final Project (1)\final Project\final Project\obj\Debug\final Project.exe
+C:\Users\Hussein soft\OneDrive\Desktop\final Project (1)\final Project\final Project\obj\Debug\final Project.pdb
+C:\Users\Hussein soft\Source\Repos\sumayahKhaled\DATABEAS-FOR-PROJECT-BMI\obj\Debug\final Project.exe
+C:\Users\Hussein soft\Source\Repos\sumayahKhaled\DATABEAS-FOR-PROJECT-BMI\obj\Debug\final Project.pdb
